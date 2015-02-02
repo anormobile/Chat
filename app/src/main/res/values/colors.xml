@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="chat_text">#383838</color>
+    <color name="chat_time_text">#9c9c9c</color>
+</resources>
